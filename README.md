@@ -1,4 +1,4 @@
-# Send-Twilio-Programmable-SMS-with-Twilio-Functions-
+# How To Send Twilio Programmable SMS Using Twilio Functions CLI
 Tutorial showcasing how one can send programmable sms using Twilio functions
 
 
